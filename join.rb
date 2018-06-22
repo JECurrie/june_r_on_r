@@ -1,0 +1,1 @@
+puts ["where's", "wallace", "at"].join("***")
